@@ -1,6 +1,6 @@
 {
   "name": "game-of-life-patterns",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Game of Life pattern repository",
   "main": "index.js",
   "scripts": {
