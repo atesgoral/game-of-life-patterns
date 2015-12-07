@@ -1,0 +1,23 @@
+{
+  "name": "game-of-life-patterns",
+  "version": "0.0.0",
+  "description": "Game of Life pattern repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atesgoral/game-of-life-patterns.git"
+  },
+  "keywords": [
+    "game of life"
+  ],
+  "author": "Ates Goral <ates@magnetiq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atesgoral/game-of-life-patterns/issues"
+  },
+  "homepage": "https://github.com/atesgoral/game-of-life-patterns#readme",
+  "devDependencies": {}
+}
